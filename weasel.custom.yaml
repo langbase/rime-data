@@ -53,7 +53,9 @@ patch:
 #    font_face: "Source Han Mono"	#思源等宽日本字形
 #    font_face: "Source Han Mono K"	#思源等宽韩国字形
 
-#    font_face: "MingLiu"	#细明体(中国台湾字形)(XP自带V3.21为旧字形)
-#    font_face: "DFKai-SB"	#标楷体(中国台湾字形)
-    font_face: "KaiTi"	#楷体(系统自带)
-    font_point: 24
+#    font_face: "KaiTi"	#楷体(系统自带)
+
+#    font_face: "FZYouH 503L"
+    font_face: "HYZhengYuan-35S"
+#    font_face: "HYXuanSong 35S"
+    font_point: 18
